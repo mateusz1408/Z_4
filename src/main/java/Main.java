@@ -27,7 +27,7 @@ public class Main {
         break;
         
        }
-    System.out.println(wynik);
+    System.out.println("wynik to " + wynik);
   
     
   }
